@@ -5,7 +5,7 @@ A trading journal web app built using PHP for keeping track of and analyzing you
 ## Features (Planned)
 
 ### Trade Log:
-- Add each trade with Entry, Exit, Status, Target, Stoploss, Remarks, Chart pic, Strategy, Direction (Bullish/Bearish), tags etc
+- Add each trade with Entry, Exit, Status, Target, Stoploss, Remarks, Chart pic, Brokerage, Strategy, Direction (Bullish/Bearish), tags etc
 - Filter and sort trades or charts by date, profit or loss % etc
 - Gallery view for charts and table view for trades
 
@@ -16,6 +16,7 @@ A trading journal web app built using PHP for keeping track of and analyzing you
 - P&L ratio
 - Sharpe ratio
 - R ratio
+- Brokerage expenses
 - Batting Average
 - Strategy use frequency
 
