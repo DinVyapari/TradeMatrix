@@ -1,21 +1,40 @@
 # TradeMatrix
 
-A trading journal web app using PHP for keeping track of and analyzing your trades in stocks, F&O, forex, crypto etc.
+A trading journal web app built using PHP for keeping track of and analyzing your trades in stocks, F&O, forex, crypto etc. MySQL is used for storing data.
 
 ## Features (Planned)
 
 ### Trade Log:
-- Add each trade with Entry, Exit, Target, Stoploss, Remarks, Chart pic, Strategy, tags etc
+- Add each trade with Entry, Exit, Status, Target, Stoploss, Remarks, Chart pic, Brokerage, Strategy, Direction (Bullish/Bearish), tags etc
 - Filter and sort trades or charts by date, profit or loss % etc
 - Gallery view for charts and table view for trades
 
 ### Statistics:
-- Capital Growth and P&L Graphs filtered by time period or number of trades
-- P&L, avg returns, success rate, avg RR, largest P/L etc filtered by time period or number of trades
+- Capital Growth (with graph)
+- Global P&L (with graph)
+- P&L by trade direction
+- P&L ratio
+- Sharpe ratio
+- R ratio
+- Brokerage expenses
+- Batting Average
+- Strategy use frequency
 
+#### Filters:
+- Time period
+- Number of trades
+- P/L value
+  
+### Calculators:
+- Position sizing based on risk and stoploss
+- Stoploss based on R ratio or risk appetite
+- Compounded returns for long term investments
+  
 ### Other Features:
 - Profile section with trading goals etc
-- Calculator section with Position Sizing, Stoploss, Compounded Returns etc
-- Multiple tags can be associated for multiple brokers, instruments, paper trades etc. Everything can be filtered by tags.
-- Algo trading, data feed, live updates on open trades, CMP/LTP updates, FA and TA screeners etc.
-- Create view-only links to share certain parts of journal with anyone
+- Multiple tags can be associated for multiple brokers, instruments, paper trades etc. Everything can be filtered by tags
+- Algo trading, data feed, live updates on open trades, CMP/LTP updates, FA and TA screeners etc
+- Option to include/exclude paper trades in global statistics
+- Create view-only links to share certain parts of the journal with anyone
+- Export/import JSON/XML/CSV/PDF trade log
+- Printable view
