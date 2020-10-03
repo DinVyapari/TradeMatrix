@@ -17,7 +17,7 @@ A trading journal web app built using PHP for keeping track of and analyzing you
 - Sharpe ratio
 - R ratio
 - Batting Average
-- Strategy used frequency
+- Strategy use frequency
 
 #### Filters:
 - Time period
