@@ -4,7 +4,7 @@ A trading journal web app built using PHP for keeping track of and analyzing you
 
 Contributions are welcome, especially for CSS!
 
-## Features
+## Features (Planned):
 
 ### Trade Log:
 - Add each trade with Entry, Exit, Status, Target, Stoploss, Remarks, Chart pic, Brokerage, Strategy, Direction (Bullish/Bearish), tags etc
