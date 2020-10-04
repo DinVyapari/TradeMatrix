@@ -20,6 +20,8 @@ Contributions are welcome, especially for CSS!
 - R ratio
 - Brokerage expenses
 - Batting Average
+- Maximum drawdown
+- P/L streak
 - Strategy use frequency
 
 #### Filters:
