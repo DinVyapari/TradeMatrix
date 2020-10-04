@@ -11,6 +11,7 @@ Contributions are welcome, especially for CSS!
 - [ ] Filter and sort trades or charts by date, profit or loss % etc
 <!-- Sort by any column of table; rows per page dropdown, 20 by default -->
 - [ ] Gallery view for charts and table view for trades
+<!-- Resize and compress images before storing, rename each image to unique id and store id in db -->
 
 ### Statistics:
 - [ ] Capital Growth (with graph)
