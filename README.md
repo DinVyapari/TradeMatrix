@@ -9,6 +9,7 @@ Contributions are welcome, especially for CSS!
 ### Trade Log:
 - [ ] Add each trade with Entry, Exit, Status, Target, Stoploss, Remarks, Chart pic, Brokerage, Strategy, Direction (Bullish/Bearish), tags etc
 - [ ] Filter and sort trades or charts by date, profit or loss % etc
+<!-- Sort by any column of table; rows per page dropdown, 20 by default -->
 - [ ] Gallery view for charts and table view for trades
 
 ### Statistics:
