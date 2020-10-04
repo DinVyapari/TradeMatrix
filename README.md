@@ -35,6 +35,7 @@ Contributions are welcome, especially for CSS!
 - [ ] Compounded returns for long term investments
   
 ### Other Features:
+- [ ] Multi user support
 - [ ] Profile section with trading goals etc
 - [ ] Multiple tags can be associated for multiple brokers, instruments, paper trades etc. Everything can be filtered by tags
 - [ ] Algo trading, data feed, live updates on open trades, CMP/LTP updates, FA and TA screeners etc
