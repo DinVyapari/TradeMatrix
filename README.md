@@ -1,6 +1,6 @@
 # 🚀 TradeMatrix
 
-A trading journal web app built using PHP for keeping track of and analyzing your trades in stocks, F&O, forex, crypto etc. MySQL is used for storing data. <br>
+A trading journal web app built using Python for keeping track of and analyzing your trades in stocks, F&O, forex, crypto etc. MySQL is used for storing data. <br>
 
 Contributions are welcome, especially for CSS!
 
